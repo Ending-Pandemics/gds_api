@@ -1,2 +1,2 @@
-# gds_api
-API of Guardians of Health
+# Guardians of Health 
+> Backend software written in [Sails](http://sailsjs.org)
